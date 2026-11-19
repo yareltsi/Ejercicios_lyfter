@@ -96,5 +96,68 @@
             "sp_defense": 65,
             "speed": 55
         }
+    },
+    {
+        "name": "snorlax",
+        "type": "normal",
+        "level": 30,
+        "weight_kg": 460.0,
+        "is_shiny": false,
+        "held_item": null,
+        "skills": [
+            "tackle",
+            "headbutt",
+            "rest"
+        ],
+        "stats": {
+            "hp": 160,
+            "attack": 110,
+            "defense": 65,
+            "sp_attack": 65,
+            "sp_defense": 110,
+            "speed": 30
+        }
+    },
+    {
+        "name": "gengar",
+        "type": "ghost",
+        "level": 45,
+        "weight_kg": 40.5,
+        "is_shiny": true,
+        "held_item": null,
+        "skills": [
+            "shadow ball",
+            "sludge bomb",
+            "dark pulse"
+        ],
+        "stats": {
+            "hp": 60,
+            "attack": 65,
+            "defense": 60,
+            "sp_attack": 130,
+            "sp_defense": 75,
+            "speed": 110
+        }
+    },
+    {
+        "name": "dragonite",
+        "type": "dragon",
+        "level": 55,
+        "weight_kg": 210.0,
+        "is_shiny": false,
+        "held_item": null,
+        "skills": [
+            "dragon tail",
+            "outrage",
+            "hurricane"
+        ],
+        "stats": {
+            "hp": 91,
+            "attack": 134,
+            "defense": 95,
+            "sp_attack": 100,
+            "sp_defense": 100,
+            "speed": 80
+        }
     }
 ]
