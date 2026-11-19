@@ -1,0 +1,3 @@
+Python es un lenguaje de programación muy utilizado.
+Permite trabajar con archivos, listas y funciones.
+Estoy aprendiendo a contar palabras en un documento.

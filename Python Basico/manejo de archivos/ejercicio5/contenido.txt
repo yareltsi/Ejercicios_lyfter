@@ -1,0 +1,3 @@
+This file contains previous records.
+Python makes it easy to work with text files.
+Each new line should be added at the end without deleting the existing content.
