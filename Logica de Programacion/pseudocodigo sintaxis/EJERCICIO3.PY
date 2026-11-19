@@ -1,0 +1,9 @@
+number = int(input("ENTER A NUMBER _"))
+counter = 1
+addition = 0 
+
+while counter <= number:
+    addition = addition + counter
+    counter = counter+ 1 
+
+print(addition)
