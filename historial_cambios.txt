@@ -1,0 +1,49 @@
+HISTORIAL DE CAMBIOS DEL REPOSITORIO
+
+Commit: f2a010f
+
+Qué cambió:
+Se corrigieron los nombres de dos archivos de Python, utilizando minúsculas en sus nombres y extensiones. También se asignó un nombre descriptivo a un borrador de diagrama de flujo.
+
+Por qué se hizo:
+Para atender las observaciones del profesor, mantener una nomenclatura uniforme y facilitar la identificación de los archivos.
+
+---
+
+Commit: 1a295d9
+
+Qué cambió:
+Se incorporaron 124 archivos correspondientes a los ejercicios de IT Essentials, Lógica de Programación y Python Básico, organizados por módulos.
+
+Por qué se hizo:
+Para mantener un repositorio organizado y facilitar la revisión de las actividades por parte del profesor.
+
+---
+
+Commit: 1cdd5c8
+
+Qué cambió:
+Se agregaron tres nuevos Pokémon: Snorlax, Mewtwo y Gengar al archivo JSON.
+
+Por qué se hizo:
+Para practicar la modificación de archivos JSON y el registro de cambios mediante Git.
+
+---
+
+Commit: adc7182
+
+Qué cambió:
+Se registraron los primeros ejercicios de Python relacionados con el manejo de archivos JSON.
+
+Por qué se hizo:
+Para iniciar el control de versiones de los ejercicios y conservar un historial de las actividades realizadas.
+
+---
+
+Commit: 9c82e5c
+
+Qué cambió:
+Se inicializó el repositorio con el archivo README.md.
+
+Por qué se hizo:
+Para establecer la estructura inicial del repositorio donde se almacenarían las actividades de programación.

@@ -1,0 +1,3 @@
+Este archivo fue creado en la rama experimentación como parte de una actividad práctica de Git.
+
+El objetivo es aprender a crear ramas independientes, registrar cambios y subirlos a GitHub sin modificar la rama principal del repositorio.
