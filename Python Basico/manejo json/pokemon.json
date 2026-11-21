@@ -1,0 +1,163 @@
+[
+    {
+        "name": "Pikachu",
+        "type": "Electric",
+        "level": 54,
+        "weight_kg": 6.0,
+        "is_shiny": false,
+        "held_item": null,
+        "skills": [
+            "Thunder Shock",
+            "Quick Attack",
+            "Thunderbolt",
+            "Volt Tackle"
+        ],
+        "stats": {
+            "hp": 35,
+            "attack": 55,
+            "defense": 40,
+            "sp_attack": 50,
+            "sp_defense": 50,
+            "speed": 90
+        }
+    },
+    {
+        "name": "Charmander",
+        "type": "Fire",
+        "level": 8,
+        "weight_kg": 8.5,
+        "is_shiny": true,
+        "held_item": "Charcoal",
+        "skills": [
+            "Ember",
+            "Scratch",
+            "Tackle",
+            "Smokescreen"
+        ],
+        "stats": {
+            "hp": 39,
+            "attack": 52,
+            "defense": 43,
+            "sp_attack": 60,
+            "sp_defense": 50,
+            "speed": 65
+        }
+    },
+    {
+        "name": "balbasaur",
+        "type": "grass",
+        "level": "16",
+        "weight": "6.9",
+        "is_shiny": false,
+        "held_item": null,
+        "skills": [],
+        "stats": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "sp_attack": 0,
+            "sp_defense": 0,
+            "speed": 0
+        }
+    },
+    {
+        "name": "squirtle",
+        "type": "water",
+        "level": "10",
+        "weight": "9.0",
+        "is_shiny": false,
+        "held_item": null,
+        "skills": [],
+        "stats": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "sp_attack": 0,
+            "sp_defense": 0,
+            "speed": 0
+        }
+    },
+    {
+        "name": "eevee",
+        "type": "normal",
+        "level": 15,
+        "weight_kg": 6.5,
+        "is_shiny": false,
+        "held_item": null,
+        "skills": [
+            "trackle",
+            "quick"
+        ],
+        "stats": {
+            "hp": 55,
+            "attack": 55,
+            "defense": 50,
+            "sp_attack": 45,
+            "sp_defense": 65,
+            "speed": 55
+        }
+    },
+    {
+        "name": "snorlax",
+        "type": "normal",
+        "level": 30,
+        "weight_kg": 460.0,
+        "is_shiny": false,
+        "held_item": null,
+        "skills": [
+            "tackle",
+            "headbutt",
+            "rest"
+        ],
+        "stats": {
+            "hp": 160,
+            "attack": 110,
+            "defense": 65,
+            "sp_attack": 65,
+            "sp_defense": 110,
+            "speed": 30
+        }
+    },
+    {
+        "name": "gengar",
+        "type": "ghost",
+        "level": 45,
+        "weight_kg": 40.5,
+        "is_shiny": true,
+        "held_item": null,
+        "skills": [
+            "shadow ball",
+            "sludge bomb",
+            "dark pulse"
+        ],
+        "stats": {
+            "hp": 60,
+            "attack": 65,
+            "defense": 60,
+            "sp_attack": 130,
+            "sp_defense": 75,
+            "speed": 110
+        }
+    },
+    {
+        "name": "dragonite",
+        "type": "dragon",
+        "level": 55,
+        "weight_kg": 210.0,
+        "is_shiny": false,
+        "held_item": null,
+        "skills": [
+            "dragon tail",
+            "outrage",
+            "hurricane"g
+        ],
+        "stats": {
+            "hp": 91,
+            "attack": 134,
+            "defense": 95,
+            "sp_attack": 100,
+            "sp_defense": 100,
+            "speed": 80
+        }
+    }
+]

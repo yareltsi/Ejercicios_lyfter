@@ -1,0 +1,5 @@
+hola mundo
+estoy aprendiendo manejo de archivos en python
+quiero practicar lectura y escritura de archivos
+este ejercicio convertira cada linea a mayusculas
+python es un lenguaje de programacion muy utilizado
